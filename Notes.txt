@@ -1,0 +1,2 @@
+I Used Css grid to solve this task. In this task there are two version one is large screen version and another one is small screen 
+version. 
